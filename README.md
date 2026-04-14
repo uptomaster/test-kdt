@@ -1,2 +1,2 @@
-# test-kdt
-연습
+# test-repo
+test repository
